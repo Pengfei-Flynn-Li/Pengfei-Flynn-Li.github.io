@@ -2,35 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Pengfei-Flynn-Li.github.io/posts/papermod/papermod-installation/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://Pengfei-Flynn-Li.github.io/archives/</loc>
   </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/posts/papermod/papermod-features/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/docs/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://Pengfei-Flynn-Li.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://Pengfei-Flynn-Li.github.io/fr/"
+                hreflang="zh"
+                href="https://Pengfei-Flynn-Li.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fa"
-                href="https://Pengfei-Flynn-Li.github.io/fa/"
+                hreflang="en"
+                href="https://Pengfei-Flynn-Li.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://Pengfei-Flynn-Li.github.io/education/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://Pengfei-Flynn-Li.github.io/zh/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Pengfei-Flynn-Li.github.io/education/"
+                />
+  </url><url>
+    <loc>https://Pengfei-Flynn-Li.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://Pengfei-Flynn-Li.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,124 +40,32 @@
                 href="https://Pengfei-Flynn-Li.github.io/"
                 />
   </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/posts/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://Pengfei-Flynn-Li.github.io/experiences/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://Pengfei-Flynn-Li.github.io/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://Pengfei-Flynn-Li.github.io/fa/posts/"
+                hreflang="zh"
+                href="https://Pengfei-Flynn-Li.github.io/zh/experiences/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Pengfei-Flynn-Li.github.io/posts/"
-                />
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/series/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://Pengfei-Flynn-Li.github.io/fr/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://Pengfei-Flynn-Li.github.io/fa/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Pengfei-Flynn-Li.github.io/posts/markdown-syntax/"
-                />
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/code/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/posts/code_syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/gist/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://Pengfei-Flynn-Li.github.io/fr/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Pengfei-Flynn-Li.github.io/archives/"
+                href="https://Pengfei-Flynn-Li.github.io/experiences/"
                 />
   </url><url>
     <loc>https://Pengfei-Flynn-Li.github.io/search/</loc>
+  </url><url>
+    <loc>https://Pengfei-Flynn-Li.github.io/series/</loc>
+  </url><url>
+    <loc>https://Pengfei-Flynn-Li.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://Pengfei-Flynn-Li.github.io/fr/search/"
+                hreflang="zh"
+                href="https://Pengfei-Flynn-Li.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Pengfei-Flynn-Li.github.io/search/"
+                href="https://Pengfei-Flynn-Li.github.io/tags/"
                 />
   </url>
 </urlset>

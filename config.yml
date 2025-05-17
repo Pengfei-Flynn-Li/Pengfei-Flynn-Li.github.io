@@ -95,24 +95,57 @@ languages:
   #         - name: Profile Mode
   #           url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 # 
-  # fa:
-  #   languagedirection: rtl
-  #   weight: 3
-  #   title: PaperMod RTL
-  #   taxonomies:
-  #     category: FAcategories
-  #     tag: FAtags
-  #     series: FAseries
-  #   menu:
-  #     main:
-  #       - name: FATags
-  #         url: fatags
-  #         weight: 10
-  #   # custom params for each language should be under [langcode].parms - hugo v0.120.0
-  #   params:
-  #     homeInfoParams:
-  #       Title: "Hi there \U0001F44B"
-  #       Content: Welcome to RTL layout
+  zh:
+    languageName: "简体中文"
+    weight: 2
+    title: 李鹏飞
+    menu:
+      main:
+        - name: 首页
+          url: /
+          weight: 1
+        - name: 工作经历
+          url: experiences
+          weight: 2
+        - name: 教育背景
+          url: education
+          weight: 3
+    params:
+      homeInfoParams:
+        Title: "李鹏飞"
+        Content: >
+          具备10年以上工业设备与电气元件行业的战略采购与供应链管理经验，精通国际采购、合同谈判、库存优化及供应商绩效管理。擅长通过数据分析实现成本控制与效率提升，优化供应商关系，并在多地运营中持续维持98%以上的库存可用率。具备出色的跨部门协作能力、严谨的逻辑思维和卓越的运营执行力，致力于推动采购与供应链体系的持续优化与高效运转。
+
+          - 联系电话：+86 13665695194
+
+          - 电子邮箱：[pfli1988@hotmail.com](mailto:pfli1988@hotmail.com)
+          
+          <br><br>
+        
+          ## 核心技能
+
+          <br>
+          
+
+          - 战略采购与供应商谈判
+
+          - 库存优化与需求计划
+
+          - 数据分析与高级Excel技能（如VLOOKUP、数据透视表、VBA）
+
+          - ERP / MRP系统操作经验（如Pronto、SAP）
+
+          - 关键绩效指标（KPI）报告与流程改进
+
+          - 成本控制措施与预算管理
+
+          - 合同管理与风险规避
+
+          - 跨部门协作能力
+
+          - 时间管理与任务优先级排序
+
+          - 英语与中文流利沟通能力
 
 outputs:
   home:

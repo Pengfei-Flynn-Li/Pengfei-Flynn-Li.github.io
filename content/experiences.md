@@ -8,48 +8,52 @@ showToc: false
 
 *Jul 2022 – Present*
 
-- Oversaw nationwide inventory, sustaining a **98 % instock rate** across five distribution centres.
-- Partnered with State Managers to forecast demand and align procurement with sales pipelines.
-- Generated endtoend POs, tracked shipments, and maintained realtime accuracy in **Pronto ERP**.
-- Reconciled inbound deliveries against POs, ensuring compliance with price, quality and quantity.
-- Monitored KPIs (price variance, inventory value, shortages, supplier **OTIF**) and reported monthly.
-- Coordinated bespoke manufacturing orders to meet customerspecific requirements.
-- Led crossfunctional taskforce (sales, warehouse, finance) that improved **ontime fulfilment 90 %→97 %**.
-- Contributed to annual purchasing budgets and forecast exercises.
+- Monitored and maintained optimal stock levels across nationwide distribution centers to ensure uninterrupted supply
+- Collaborated with State Managers to accurately forecast demand and identify stock replenishment needs 
+- Issued and managed purchase orders, ensured timely supplier deliveries, and maintained up-to-date records in the ERP system 
+- Verified incoming shipments against purchase orders to ensure compliance with specifications in product type, price, quality, and quantity
+- Tracked and reported key performance metrics, including price variances, inventory value, stock shortages, and supplier performance (OTIF)
+- Coordinated custom manufacturing orders tailored to specific customer requirements
+- Liaised with cross-functional teams (sales, warehouse, finance) to ensure timely and accurate fulfillment of sales orders
+- Supported monthly and annual purchasing forecasts to align procurement planning with business objectives
+
 
 ### Key Achievements
 
-- Negotiated improved payment terms (net45 → net60), releasing **AUD 1.2 M** working capital.
-- Implemented **ABC inventory classification**, reducing excess stock by **18 %** in 12 months.
+- Coordinated custom product manufacturing, expanding the company’s capability to meet diverse customer requirements 
+- Supported accurate demand forecasting, contributing to more effective budget planning and reduced stockouts
 
 ## Purchasing Officer — Ernest Fleming Machinery & Equipment, Lane Cove West NSW
 
 *May 2016 – Jul 2022*
 
-- Conducted market research and vendor due diligence to qualify suppliers.
-- Negotiated pricing, payment terms and delivery schedules, securing yearonyear cost savings.
-- Managed full PO lifecycle and coordinated international logistics with freight forwarders.
-- Prepared import documentation (Commercial Invoice, Packing List, B/L, C/O) for customs clearance.
-- Monitored inventory levels and initiated replenishment to maintain optimal stock turns.
-- Served as single point of contact for purchasing enquiries across internal teams and external partners.
-- Cultivated longterm relationships with global suppliers, improving reliability and quality.
+- Negotiated pricing, payment terms, and delivery schedules with both domestic and international suppliers
+- Created and managed the full purchase order lifecycle, including lead time tracking and estimated time of arrival (ETA) monitoring
+- Coordinated with freight forwarders and shipping agents to ensure smooth and timely delivery of goods
+- Verified import documentation such as Commercial Invoices, Packing Lists, Bills of Lading, and Certificates of Origin to facilitate customs clearance
+- Monitored and maintained optimal stock levels to support ongoing business operations and prevent stockouts
+- Acted as a key liaison between internal departments and external partners to address procurement-related inquiries
+- Built and sustained long-term, collaborative relationships with suppliers to enhance supply chain performance and reliability
 
 ### Key Achievements
 
-- Streamlined PO workflow, cutting processing time by **30 %** through template automation.
-- Codeveloped a stockcontrol policy that improved inventory turnover by **12 %**.
+- Streamlined procurement processes by standardizing workflows, reducing purchase order processing time by 30%
+- Assisted in developing and implementing a stock control policy, resulting in improved inventory turnover and reduced overstock risks
+- Established and maintained high-quality supplier relationships, leading to improved product consistency and supply reliability
+- Successfully negotiated more favorable payment terms with multiple suppliers, improving cash flow and supplier flexibility
 
 ## Export Sales Representative — Anhui Technology I&E Co., Ltd., China
 
 *Sep 2010 – Mar 2016*
 
-- Managed customer relationships in Australia, Europe and South America, driving repeat business.
-- Represented company at international fairs (Canton Fair, Hannover Messe) and secured new contracts.
-- Sourced and evaluated suppliers, negotiating favourable price and quality terms.
-- Oversaw product inspections, logistics coordination and shipping documentation.
-- Facilitated customs clearance by preparing accurate export paperwork and liaising with brokers.
+- Managed client communications across international markets, effectively identifying customer needs and providing tailored product solutions
+- Represented the company at international trade fairs (e.g., Canton Fair, overseas exhibitions), supporting business development and brand exposure
+- Researched and evaluated potential suppliers, negotiating pricing and terms to secure competitive deals
+- Coordinated product quality inspections and end-to-end shipping logistics to ensure timely and compliant delivery
+- Assisted in customs clearance by preparing and verifying export documentation
 
 ### Key Achievements
 
-- Expanded customer base by **25 %**, generating **USD 3 M+** new annual revenue.
-- Introduced supplier audit checklist that reduced quality issues by **20 %**.
+- Expanded the customer base through direct engagement at global trade fairs, contributing to long-term business growth
+- Ensured seamless order fulfillment by coordinating quality control, logistics, and export procedures across multiple teams
+- Built strong supplier relationships that enhanced product quality and improved delivery timelines
