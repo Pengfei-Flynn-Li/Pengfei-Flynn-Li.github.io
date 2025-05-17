@@ -11,57 +11,55 @@
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
-    <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>Pengfei Li</copyright>
     <atom:link href="https://Pengfei-Flynn-Li.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Install / Update PaperMod</title>
-      <link>https://Pengfei-Flynn-Li.github.io/posts/papermod/papermod-installation/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://Pengfei-Flynn-Li.github.io/posts/papermod/papermod-installation/</guid>
-      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+      <title>Education &amp; Certification</title>
+      <link>https://Pengfei-Flynn-Li.github.io/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Pengfei-Flynn-Li.github.io/education/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diploma in Procurement &amp;amp; Supply (Level 4, MCIPS)&lt;/strong&gt; — Chartered Institute of Procurement &amp;amp; Supply, 2019 – 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor of Arts, Commercial English&lt;/strong&gt; — Anhui University of Finance &amp;amp; Economics, 2006 – 2010&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Outstanding Employee Award&lt;/strong&gt;, Anhui Technology I&amp;amp;E Co., Ltd. — &lt;em&gt;2011 – 2014&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;English (Full Professional)&lt;/li&gt;
+&lt;li&gt;Mandarin (Native)&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Features / Mods</title>
-      <link>https://Pengfei-Flynn-Li.github.io/posts/papermod/papermod-features/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://Pengfei-Flynn-Li.github.io/posts/papermod/papermod-features/</guid>
-      <description>Learn About All Features in PaperMod</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://Pengfei-Flynn-Li.github.io/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://Pengfei-Flynn-Li.github.io/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Code Syntax Guide</title>
-      <link>https://Pengfei-Flynn-Li.github.io/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://Pengfei-Flynn-Li.github.io/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>https://Pengfei-Flynn-Li.github.io/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://Pengfei-Flynn-Li.github.io/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://Pengfei-Flynn-Li.github.io/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://Pengfei-Flynn-Li.github.io/posts/math-typesetting/</guid>
-      <description>A brief guide to setup KaTeX</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>https://Pengfei-Flynn-Li.github.io/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://Pengfei-Flynn-Li.github.io/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
+      <title>Professional Experiences</title>
+      <link>https://Pengfei-Flynn-Li.github.io/experiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Pengfei-Flynn-Li.github.io/experiences/</guid>
+      <description>&lt;h2 id=&#34;senior-purchasing-officer--4cabling-homebushwestnsw&#34;&gt;Senior Purchasing Officer — 4Cabling, Homebush West NSW&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Jul 2022 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oversaw nationwide inventory, sustaining a &lt;strong&gt;98 % instock rate&lt;/strong&gt; across five distribution centres.&lt;/li&gt;
+&lt;li&gt;Partnered with State Managers to forecast demand and align procurement with sales pipelines.&lt;/li&gt;
+&lt;li&gt;Generated endtoend POs, tracked shipments, and maintained realtime accuracy in &lt;strong&gt;Pronto ERP&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Reconciled inbound deliveries against POs, ensuring compliance with price, quality and quantity.&lt;/li&gt;
+&lt;li&gt;Monitored KPIs (price variance, inventory value, shortages, supplier &lt;strong&gt;OTIF&lt;/strong&gt;) and reported monthly.&lt;/li&gt;
+&lt;li&gt;Coordinated bespoke manufacturing orders to meet customerspecific requirements.&lt;/li&gt;
+&lt;li&gt;Led crossfunctional taskforce (sales, warehouse, finance) that improved &lt;strong&gt;ontime fulfilment 90 %→97 %&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Contributed to annual purchasing budgets and forecast exercises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-achievements&#34;&gt;Key Achievements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Negotiated improved payment terms (net45 → net60), releasing &lt;strong&gt;AUD 1.2 M&lt;/strong&gt; working capital.&lt;/li&gt;
+&lt;li&gt;Implemented &lt;strong&gt;ABC inventory classification&lt;/strong&gt;, reducing excess stock by &lt;strong&gt;18 %&lt;/strong&gt; in 12 months.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;purchasing-officer--ernestfleming-machinery-equipment-lanecovewestnsw&#34;&gt;Purchasing Officer — Ernest Fleming Machinery &amp;amp; Equipment, Lane Cove West NSW&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;May 2016 – Jul 2022&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
