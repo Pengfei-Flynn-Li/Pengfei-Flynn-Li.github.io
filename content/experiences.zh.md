@@ -1,10 +1,10 @@
 ---
-title: "实习经历"
+title: "工作经历"
 hideMeta: true
 showToc: false
 ---
 
-## 高级采购专员 — 4Cabling，澳大利亚新南威尔士州Homebush West
+## 高级采购专员 — 4Cabling，澳大利亚新南威尔士州 Homebush West
 
 *2022年7月 – 至今*
 
@@ -22,7 +22,7 @@ showToc: false
 - 协调定制产品制造，拓展公司满足多样化客户需求的能力
 - 支持精准需求预测，促进预算规划更有效，减少缺货情况
 
-## 采购专员 — Ernest Fleming Machinery & Equipment，澳大利亚新南威尔士州Lane Cove West
+## 采购专员 — Ernest Fleming Machinery & Equipment，澳大利亚新南威尔士州 Lane Cove West
 
 *2016年5月 – 2022年7月*
 

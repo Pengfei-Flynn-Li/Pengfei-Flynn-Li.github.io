@@ -26,6 +26,18 @@
                 href="https://Pengfei-Flynn-Li.github.io/zh/tags/"
                 />
   </url><url>
+    <loc>https://Pengfei-Flynn-Li.github.io/zh/experiences/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Pengfei-Flynn-Li.github.io/experiences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://Pengfei-Flynn-Li.github.io/zh/experiences/"
+                />
+  </url><url>
     <loc>https://Pengfei-Flynn-Li.github.io/zh/education/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,18 +60,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://Pengfei-Flynn-Li.github.io/zh/"
-                />
-  </url><url>
-    <loc>https://Pengfei-Flynn-Li.github.io/zh/experiences/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Pengfei-Flynn-Li.github.io/experiences/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://Pengfei-Flynn-Li.github.io/zh/experiences/"
                 />
   </url>
 </urlset>
